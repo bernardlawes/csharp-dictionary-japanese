@@ -1,0 +1,1 @@
+# csharp-dictionary-japanese module
